@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hola!, Soy Santiago</h1>
 <h3 align="center">Backend developer de Argentina</h3>
 
-🔭 Actualmente trabajando en **[FrávegaTech](https://www.linkedin.com/company/fr%C3%A1vegatech/)**
-🌱 Perfeccionándome en **Go y Typescript**
-📫 Contactame en **santisequeyra@hotmail.com**
+🔭 Actualmente trabajando en **[FrávegaTech](https://www.linkedin.com/company/fr%C3%A1vegatech/)**</br>
+🌱 Perfeccionándome en **Go y Typescript**</br>
+📫 Contactame en **santisequeyra@hotmail.com**</br>
 
 <h3 align="left">Encontrame en:</h3>
 <p align="left">
