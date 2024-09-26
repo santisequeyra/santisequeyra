@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola!, Soy Santiago</h1>
+<h1 align="center">👋 Hola!, Soy Santiago Sequeyra</h1>
 <h3 align="center">Backend developer de Argentina</h3>
 
 🔭 Actualmente trabajando en **[FrávegaTech](https://www.linkedin.com/company/fr%C3%A1vegatech/)**</br>
