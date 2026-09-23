@@ -2,7 +2,7 @@
 <h3 align="center">Ssr. Backend Developer desde Argentina 🇦🇷</h3>
 
 <p align="center">
-  Soy un desarrollador backend apasionado por la creación de APIs robustas, arquitecturas escalables y el mundo DevOps. Me enfoco en escribir código limpio y eficiente.
+  Apasionado por la informática y la tecnología desde que tengo memoria, persigo constantemente desafíos que me lleven a crecer como profesional. <br>Creo en el trabajo en equipo como la mejor manera de alcanzar resultados y objetivos.
 </p>
 
 <div align="center">
