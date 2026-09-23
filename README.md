@@ -25,7 +25,7 @@
 
   🎓 Estudiante de <b>Licenciatura en Informática en la UNLP</b> <br/>
 
-  📜 <a href="./certificados.md"><b>Certificaciones y formación complementaria</b></a> <br/>
+  📜 <a href="./CERTIFICADOS.md"><b>Certificaciones y formación complementaria</b></a> <br/>
 
   📫 Contactame:
   <b><a href="mailto:santisequeyra@hotmail.com">santisequeyra@hotmail.com</a></b>
